@@ -1,0 +1,17 @@
+{
+  "background_color": "none",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "1만 시간의 법칙",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "시간의 법칙",
+  "lang": "ko",
+  "start_url": "https://paullabkorea.github.io/pwstest/",
+  "theme_color": "none",
+  "icons": [
+    {
+      "src": "img/favicon.ico"
+    }
+  ]
+}
